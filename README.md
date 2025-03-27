@@ -3,8 +3,7 @@
 
 
 ## Method 
-The G-function computes the nearest neighbour distance for cells of type ‘j’ with respect to cells of type ‘i’ within a defined proximity distance (r). To assess if the observed G-function is different from complete spatial randomness (CSR) with the same cell abundance, we applied a randomization test based on the Monte Carlo simulation test.
-
+The G-function computes the nearest neighbour distance for cells of type ‘j’ with respect to cells of type ‘i’ within a defined proximity distance (r). 
 ## Setting up the app
 Download install R and R studio 
 In R studio **click file** -> **New Project** -> **Version Control** -> **Git**  
